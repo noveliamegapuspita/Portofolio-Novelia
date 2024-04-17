@@ -567,7 +567,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/ppNovelia.jpg") center center no-repeat;
+  background: url("../img/bgNovelia.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
